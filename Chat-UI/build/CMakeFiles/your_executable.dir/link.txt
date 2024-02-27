@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/your_executable.dir/main.cpp.o -o your_executable  /usr/local/lib/libftxui-component.a /usr/local/lib/libftxui-dom.a /usr/local/lib/libftxui-screen.a 
